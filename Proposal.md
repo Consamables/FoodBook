@@ -34,7 +34,8 @@ The Android version of a social networking service that allows people to crowdso
 - Push notifications
 
 
-## For each team member: three project learning goals. Explain what you hope to get out of the project and how your project will help accomplish that goal
+## For each team member create three project learning goals
+Explain what you hope to get out of the project and how your project will help accomplish that goal
 ### Danny
 - I want to publish this app on the Google Play Store and add tracking of some sort
 - Push notifications, I know this requires some sort of service on the backend, and I’m curious how to do it
